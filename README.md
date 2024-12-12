@@ -1,4 +1,4 @@
-# keyhunt
+# keyhunter
 
 Tool for hunt privatekeys for crypto currencies that use secp256k1 elliptic curve
 
