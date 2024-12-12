@@ -88,7 +88,7 @@ git clone https://github.com/gamerzacrow17/keyhunter.git
 don't forget change to the keyhunt directory (But i'm not here to teach you linux commands)
 
 ```
-cd keyhunt
+cd keyhunter
 ```
 
 First compile:
@@ -107,7 +107,7 @@ make legacy
 and then execute with `-h` to see the help
 
 ```
-./keyhunt -h
+./keyhunter -h
 ```
 
 ## ¡Beta!
